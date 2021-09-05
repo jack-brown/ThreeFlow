@@ -1,0 +1,148 @@
+employer_id,broker_id,employer_employee_count,sic_division,project_created_date,proposal_completion_due_date,effective_date,staging_due_date
+1625,11,246,Manufacturing,10/16/20,10/30/20,1/1/21,10/21/20
+1256,13,154,Services & Education,8/4/20,9/4/20,1/1/21,8/11/20
+1258,13,76,Manufacturing,8/4/20,9/18/20,1/1/21,8/11/20
+1036,11,299,Construction,7/9/20,8/20/20,1/1/21,7/16/20
+1032,13,80,Services & Education,7/9/20,8/24/20,12/1/20,7/16/20
+834,11,449,Retail Trade,5/28/20,12/7/20,1/1/21,6/4/20
+1684,41,1000,"Finance, Insurance and Real Estate",12/8/20,12/21/20,7/1/21,12/9/20
+1368,41,18,Services & Education,8/26/20,9/15/20,1/1/21,9/2/20
+1656,41,,Manufacturing,11/3/20,11/9/20,1/1/21,11/3/20
+1496,41,19,"Finance, Insurance and Real Estate",9/14/20,9/30/20,1/1/21,9/21/20
+1629,41,,Construction,10/18/20,10/28/20,1/1/21,10/18/20
+1627,41,,"Finance, Insurance and Real Estate",10/18/20,10/28/20,1/1/21,10/18/20
+812,23,3160,Services & Education,4/30/20,5/27/20,1/1/21,5/7/20
+727,12,252,Services & Education,1/7/20,2/5/20,4/1/20,1/14/20
+728,12,40,Services & Education,1/7/20,1/22/20,3/1/20,1/14/20
+811,13,60,Services & Education,4/29/20,5/27/20,8/1/20,5/6/20
+1321,41,30,Services & Education,8/17/20,9/1/20,1/1/21,8/24/20
+1319,11,873,Wholesale Trade,8/17/20,8/28/20,1/1/21,8/24/20
+1582,11,133,Construction,9/29/20,10/7/20,1/1/21,9/30/20
+1584,11,104,Wholesale Trade,9/29/20,10/19/20,1/1/21,10/2/20
+753,11,321,Manufacturing,2/20/20,6/23/20,10/1/20,2/27/20
+754,11,397,"Finance, Insurance and Real Estate",2/20/20,3/20/20,6/1/20,2/27/20
+726,11,343,Nonclassifiable,1/6/20,1/28/20,4/1/20,1/13/20
+818,11,76,Manufacturing,5/7/20,6/18/20,9/1/20,5/14/20
+817,13,68,Wholesale Trade,5/7/20,6/26/20,9/1/20,5/14/20
+1385,41,17,Services & Education,8/28/20,9/16/20,1/1/21,9/4/20
+788,13,135,Services & Education,3/27/20,4/21/20,7/1/20,4/3/20
+787,23,27,Services & Education,3/27/20,6/3/20,1/1/21,4/3/20
+1306,11,309,Manufacturing,8/13/20,9/11/20,1/1/21,8/20/20
+1312,13,204,"Transportation, Communications, Electric, Gas and Sanitary",8/13/20,11/13/20,1/1/21,8/20/20
+741,23,1192,Wholesale Trade,1/28/20,2/28/20,5/1/20,2/4/20
+832,11,262,"Finance, Insurance and Real Estate",5/27/20,7/6/20,10/1/20,6/3/20
+1689,11,435,Services & Education,12/15/20,3/2/21,3/1/21,12/28/20
+1615,41,,Services & Education,10/12/20,10/16/20,1/1/21,10/12/20
+806,11,72,Services & Education,4/13/20,4/22/20,7/1/20,4/20/20
+1536,11,272,Wholesale Trade,9/23/20,10/22/20,1/1/21,9/28/20
+1537,11,97,Manufacturing,9/23/20,10/1/20,1/1/21,9/24/20
+1532,41,30,Manufacturing,9/23/20,10/2/20,1/1/21,9/24/20
+1535,41,16,Manufacturing,9/23/20,10/2/20,1/1/21,9/24/20
+1360,11,295,Services & Education,8/25/20,9/23/20,1/1/20,9/1/20
+1363,23,48,Services & Education,8/25/20,10/13/20,1/1/21,9/1/20
+968,23,117,Manufacturing,6/22/20,8/3/20,1/1/21,6/29/20
+965,23,98,Services & Education,6/22/20,7/10/20,9/1/20,6/29/20
+971,23,238,"Transportation, Communications, Electric, Gas and Sanitary",6/22/20,8/7/20,1/1/21,6/29/20
+1151,13,351,Manufacturing,7/22/20,8/26/20,12/1/20,7/29/20
+781,23,5031,Services & Education,3/19/20,5/8/20,1/1/21,3/26/20
+1632,23,,"Finance, Insurance and Real Estate",10/20/20,10/28/20,1/1/21,10/20/20
+1294,41,26,"Agriculture, Forestry and Fishing",8/11/20,8/28/20,1/1/21,8/18/20
+922,11,708,Wholesale Trade,6/16/20,7/9/20,1/1/21,6/23/20
+929,13,443,Services & Education,6/16/20,7/15/20,10/1/20,6/23/20
+928,13,156,"Finance, Insurance and Real Estate",6/16/20,7/22/20,10/1/20,6/23/20
+1411,11,129,Services & Education,9/3/20,9/17/20,1/1/21,9/10/20
+775,11,3725,"Finance, Insurance and Real Estate",3/13/20,5/28/20,1/1/21,3/20/20
+743,23,24,Services & Education,2/4/20,2/18/20,4/1/20,2/11/20
+1664,11,154,"Finance, Insurance and Real Estate",11/11/20,12/7/20,1/1/21,11/13/20
+1666,11,68,Services & Education,11/11/20,11/30/20,1/1/21,11/16/20
+1665,23,112,Manufacturing,11/11/20,12/8/20,1/1/21,11/12/20
+1390,41,7,Wholesale Trade,8/31/20,9/11/20,12/1/20,9/7/20
+917,11,105,Public Administration,6/15/20,7/16/20,1/1/21,6/22/20
+915,13,85,Services & Education,6/15/20,7/10/20,10/1/20,6/22/20
+914,13,104,Manufacturing,6/15/20,7/22/20,10/1/20,6/22/20
+755,13,130,Manufacturing,2/21/20,3/30/20,7/1/20,2/28/20
+1278,41,30,Retail Trade,8/7/20,8/19/20,1/1/21,8/14/20
+1277,41,10,"Agriculture, Forestry and Fishing",8/7/20,8/24/20,1/1/21,8/14/20
+998,13,48,Manufacturing,6/30/20,8/2/20,10/1/20,7/7/20
+1489,41,31,Manufacturing,9/11/20,9/25/20,1/1/21,9/18/20
+1485,41,8,"Finance, Insurance and Real Estate",9/11/20,9/28/20,1/1/21,9/18/20
+1490,41,60,"Finance, Insurance and Real Estate",9/11/20,9/30/20,1/1/21,9/18/20
+1472,13,44,Manufacturing,9/11/20,10/10/20,1/1/21,9/18/20
+1610,11,216,Wholesale Trade,10/7/20,10/26/20,1/1/21,10/12/20
+767,11,691,Services & Education,3/4/20,4/9/20,7/1/20,3/11/20
+765,11,127,Manufacturing,3/4/20,4/3/20,7/1/20,3/11/20
+764,13,183,Retail Trade,3/4/20,5/11/20,8/1/20,3/11/20
+763,13,214,Services & Education,3/4/20,4/6/20,7/1/20,3/11/20
+762,13,146,Manufacturing,3/4/20,4/3/20,7/1/20,3/11/20
+1652,41,,Manufacturing,10/27/20,11/3/20,1/1/21,10/27/20
+809,11,147,Manufacturing,4/17/20,6/5/20,6/1/20,4/24/20
+1524,11,151,"Transportation, Communications, Electric, Gas and Sanitary",9/21/20,10/13/20,1/1/21,9/28/20
+1526,11,384,Services & Education,9/21/20,10/13/20,1/1/21,9/28/20
+1525,11,48,Services & Education,9/21/20,10/26/20,1/1/21,9/30/20
+974,13,151,"Finance, Insurance and Real Estate",6/23/20,9/23/20,1/1/21,6/30/20
+975,13,85,Wholesale Trade,6/23/20,9/7/20,1/1/21,6/30/20
+1513,41,10,Construction,9/17/20,9/28/20,1/1/21,9/24/20
+807,23,860,Services & Education,4/14/20,7/31/20,1/1/21,4/21/20
+824,11,149,"Finance, Insurance and Real Estate",5/15/20,6/8/20,8/1/20,5/22/20
+1372,13,90,"Transportation, Communications, Electric, Gas and Sanitary",8/27/20,10/12/20,1/1/21,9/3/20
+746,13,24,Retail Trade,2/7/20,3/4/20,5/1/20,2/14/20
+1273,11,56,"Finance, Insurance and Real Estate",8/6/20,9/8/20,1/1/21,8/13/20
+1267,13,164,Services & Education,8/6/20,9/18/20,1/1/21,8/13/20
+1271,13,41,"Agriculture, Forestry and Fishing",8/6/20,10/7/20,1/1/21,8/13/20
+1270,13,104,"Agriculture, Forestry and Fishing",8/6/20,10/30/20,1/1/21,8/13/20
+1269,13,110,Nonclassifiable,8/6/20,9/25/20,1/1/21,8/13/20
+1272,41,6,"Agriculture, Forestry and Fishing",8/6/20,9/2/20,1/1/21,8/13/20
+1663,13,,"Agriculture, Forestry and Fishing",11/10/20,11/30/20,2/1/21,11/16/20
+758,11,147,Wholesale Trade,2/25/20,3/24/20,7/1/20,3/3/20
+759,13,114,Manufacturing,2/25/20,3/23/20,6/1/20,3/3/20
+1530,41,42,Services & Education,9/22/20,9/30/20,1/1/21,9/24/20
+1634,41,,Manufacturing,10/21/20,10/29/20,1/1/21,10/21/20
+1635,41,,Manufacturing,10/21/20,10/30/20,1/1/20,10/21/20
+823,11,612,Services & Education,5/12/20,6/12/20,10/1/20,5/19/20
+1605,11,1618,Manufacturing,10/6/20,10/19/20,1/1/21,10/7/20
+1283,41,28,Services & Education,8/10/20,8/24/20,1/1/21,8/17/20
+1284,41,45,"Agriculture, Forestry and Fishing",8/10/20,9/3/20,7/1/21,8/17/20
+1287,11,184,Services & Education,8/10/20,9/4/20,1/1/21,8/17/20
+769,11,201,Services & Education,3/10/20,5/27/20,7/1/20,3/17/20
+768,13,123,Construction,3/10/20,4/7/20,7/1/20,3/17/20
+1676,11,,Services & Education,11/19/20,12/15/20,1/1/21,11/20/20
+1659,41,,Services & Education,11/6/20,11/13/20,1/1/21,11/6/20
+1660,11,,Construction,11/6/20,11/30/20,2/1/21,11/9/20
+756,11,300,Mining,2/24/20,3/23/20,1/1/21,3/2/20
+874,23,570,Services & Education,6/10/20,8/3/20,1/1/21,6/17/20
+871,13,68,Services & Education,6/10/20,7/6/20,10/1/20,6/17/20
+872,13,126,Services & Education,6/10/20,7/15/20,10/1/20,6/17/20
+870,13,55,"Transportation, Communications, Electric, Gas and Sanitary",6/10/20,7/6/20,10/1/20,6/17/20
+873,13,75,Nonclassifiable,6/10/20,7/29/20,11/1/20,6/17/20
+773,11,253,Services & Education,3/12/20,4/17/20,7/1/20,3/19/20
+760,11,598,"Transportation, Communications, Electric, Gas and Sanitary",3/3/20,4/8/20,1/1/21,3/10/20
+1404,11,273,Manufacturing,9/2/20,10/5/20,1/1/21,9/9/20
+1012,13,74,Services & Education,7/2/20,7/22/20,10/1/20,7/8/19
+1545,41,30,Manufacturing,9/24/20,10/9/20,1/1/21,9/24/20
+1542,13,168,Manufacturing,9/24/20,10/26/20,2/1/21,10/1/20
+1399,11,152,Manufacturing,9/1/20,10/6/20,11/1/20,9/8/20
+1395,13,51,Manufacturing,9/1/20,9/28/20,1/1/21,9/8/20
+813,13,88,Manufacturing,5/1/20,6/1/20,9/1/20,5/8/20
+1630,41,,Services & Education,10/19/20,10/23/20,1/1/21,10/20/20
+1414,11,181,Manufacturing,9/4/20,10/16/20,1/1/21,9/11/20
+855,11,714,"Finance, Insurance and Real Estate",6/8/20,7/8/20,1/1/21,6/15/20
+842,13,257,Wholesale Trade,6/2/20,6/26/20,9/1/20,6/9/20
+1315,13,103,Manufacturing,8/14/20,9/28/20,1/1/21,8/21/20
+1326,41,9,Services & Education,8/18/20,8/25/20,1/1/21,8/25/20
+1332,11,215,Manufacturing,8/18/20,9/17/20,1/1/21,8/25/20
+1330,11,116,Retail Trade,8/18/20,9/24/20,1/1/21,8/25/20
+1348,11,817,Services & Education,8/24/20,10/1/20,1/1/21,8/31/20
+1349,11,70,Services & Education,8/24/20,9/21/20,1/1/21,8/31/20
+1457,41,7,Construction,9/10/20,9/18/20,11/1/20,9/17/20
+1454,41,15,Manufacturing,9/10/20,9/25/20,1/1/21,9/17/20
+1470,13,89,Services & Education,9/10/20,10/1/20,1/1/21,9/17/20
+1469,13,118,Manufacturing,9/10/20,10/2/20,1/1/21,9/17/20
+1471,13,198,Manufacturing,9/10/20,10/5/20,1/1/21,9/17/20
+1449,11,324,Services & Education,9/10/20,10/7/20,1/1/21,9/17/20
+1452,11,79,"Finance, Insurance and Real Estate",9/10/20,10/14/20,1/1/21,9/17/20
+1596,11,49,Manufacturing,10/2/20,10/13/20,1/1/21,10/5/20
+1591,11,155,"Finance, Insurance and Real Estate",10/2/20,10/21/20,1/1/21,10/9/20
+1593,23,1804,Services & Education,10/2/20,10/14/20,1/1/21,10/2/20
+777,11,325,Services & Education,3/18/20,3/31/20,7/1/20,3/25/20
+1681,41,240,Services & Education,12/4/20,1/13/21,3/1/21,12/5/20
+1026,23,1024,Services & Education,7/7/20,8/10/20,1/1/21,7/14/20

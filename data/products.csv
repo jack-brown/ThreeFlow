@@ -1,0 +1,695 @@
+product_id,product_type,product_vertical,is_current_coverage,current_carrier,estimated_annual_premium
+2342592586035398588A,Hospital Indemnity,Worksite,FALSE,,300
+-728801312016162996A,Accident,Worksite,FALSE,,300
+8753039114620823117A,Critical Illness,Worksite,FALSE,,300
+4674228017096847586A,Accident,Worksite,FALSE,,100
+1646580763435697828A,Hospital Indemnity,Worksite,FALSE,,100
+4205288624226593670A,Critical Illness,Worksite,FALSE,,100
+7024591856539644010A,Voluntary AD&D,Life & Disability,TRUE,Cigna,480
+6105109062342507094A,Long Term Disability,Life & Disability,TRUE,Cigna,16500
+6400484825889842014A,Vision,Dental/Vision,TRUE,Cigna,10000
+1232167910916145264A,Basic Life / AD&D,Life & Disability,TRUE,Cigna,5040
+-1879620290546998163A,Short Term Disability,Life & Disability,TRUE,Cigna,21750
+-8024591339713483407A,Voluntary Life,Life & Disability,TRUE,Cigna,3600
+-4215722246695662141A,NY DBL,Life & Disability,TRUE,Cigna,500
+-6631216372293519064A,Dental,Dental/Vision,TRUE,Cigna,38000
+-3952992288803086456A,Short Term Disability,Life & Disability,TRUE,Principal,12816
+-3666422843994447811A,Basic Life / AD&D,Life & Disability,TRUE,Principal,3576
+4987269642849342809A,Vision,Dental/Vision,TRUE,Principal,3372
+-5702387051114936944A,Dental,Dental/Vision,TRUE,Principal,17088
+-3136598071703389419A,Vision,Dental/Vision,TRUE,Principal,3660
+7483904142396874268A,Dental,Dental/Vision,TRUE,Principal,22032
+1276143608176027957A,Voluntary AD&D,Life & Disability,TRUE,Principal,917
+-3941571086869432583A,Basic Dependent Life,Life & Disability,TRUE,Principal,248
+-3419292529538205027A,Basic Life / AD&D,Life & Disability,TRUE,Principal,3528
+-2245696324163120875A,Vision,Dental/Vision,TRUE,Principal,7632
+-7016771087633634410A,Long Term Disability,Life & Disability,TRUE,Principal,23376
+6560755294012139776A,Short Term Disability,Life & Disability,TRUE,Principal,20532
+1962109841257449530A,Voluntary Life,Life & Disability,TRUE,Principal,9876
+4820526453767128998A,Dental,Dental/Vision,TRUE,Principal,33936
+3316091714268719978A,Voluntary Life,Life & Disability,TRUE,Principal,1764
+-5461984375299572378A,Vision,Dental/Vision,TRUE,EyeMed,64000
+-4493080040512279025A,Dental,Dental/Vision,TRUE,Paramount Dental,288000
+8110841360097921122A,Voluntary AD&D,Life & Disability,TRUE,Multiple Carriers In-force,88000
+-7357738703159685258A,Absence Management,Life & Disability,TRUE,Multiple Carriers In-force,0
+-161105432827449972A,Long Term Disability,Life & Disability,TRUE,Multiple Carriers In-force,976000
+6567197718253275338A,Basic Dependent Life,Life & Disability,TRUE,Multiple Carriers In-force,64000
+3547627139442641181A,Short Term Disability,Life & Disability,TRUE,Multiple Carriers In-force,989000
+-6210055352591556339A,Basic Life / AD&D,Life & Disability,TRUE,Multiple Carriers In-force,253000
+-7345535963922531357A,Voluntary Life,Life & Disability,TRUE,Multiple Carriers In-force,811000
+-8869485902356530197A,Dental,Dental/Vision,TRUE,Guardian,30629
+7459188760346913489A,Long Term Disability,Life & Disability,TRUE,Guardian,20126
+-5304096474563952544A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,17000
+4928875020569382608A,Short Term Disability,Life & Disability,TRUE,Guardian,15667
+4545554884458740473A,Vision,Dental/Vision,TRUE,VSP,10432
+-6612074867729123250A,Dental,Dental/Vision,TRUE,Guardian,61716
+-8551070288723439589A,Vision,Dental/Vision,TRUE,Anthem,30000
+7368436772065303474A,Dental,Dental/Vision,TRUE,Anthem,223000
+-4273823524290565903A,Critical Illness,Worksite,TRUE,Lincoln,40000
+3644103094592812770A,Long Term Disability,Life & Disability,TRUE,Lincoln,114000
+-855935021511420813A,Short Term Disability,Life & Disability,TRUE,Lincoln,92000
+5580160357192005995A,Basic Life / AD&D,Life & Disability,TRUE,Lincoln,11000
+3965931363135737194A,Accident,Worksite,TRUE,Lincoln,27000
+-1094739908615105799A,Voluntary Life / AD&D,Life & Disability,TRUE,Lincoln,25000
+6734669357585608616A,Basic Life / AD&D,Life & Disability,TRUE,Unum,14711
+-1607265026652912246A,Dental,Dental/Vision,TRUE,Anthem,44000
+238240903481306501A,Long Term Disability,Life & Disability,TRUE,Unum,30000
+7913120901836786283A,Vision,Dental/Vision,TRUE,Anthem,10233
+-5200916657894275728A,Voluntary Life / AD&D,Life & Disability,TRUE,Unum,5561
+8819434831467853054A,Hospital Indemnity,Worksite,TRUE,MetLife,2000
+-6069071453794471966A,Critical Illness,Worksite,TRUE,MetLife,2000
+146245206004943679A,Vision,Dental/Vision,TRUE,MetLife,26015
+8887155576107434149A,Dental,Dental/Vision,TRUE,MetLife,143280
+-3186322895444080176A,Short Term Disability,Life & Disability,TRUE,MetLife,57735
+5407911989939623249A,Basic Life / AD&D,Life & Disability,TRUE,MetLife,24310
+8155016472387649560A,Voluntary Life,Life & Disability,TRUE,MetLife,13358
+395992175027558936A,Long Term Disability,Life & Disability,TRUE,MetLife,44567
+-2304675624166473638A,Voluntary AD&D,Life & Disability,TRUE,MetLife,2171
+-4409564525612255567A,Accident,Worksite,TRUE,MetLife,2000
+-4074042819804799223A,Accident,Worksite,FALSE,,100
+-5081274031441417865A,Critical Illness,Worksite,FALSE,,100
+-5713120210189359153A,Vision,Dental/Vision,TRUE,Cigna,18639
+1450604972078687039A,Dental,Dental/Vision,TRUE,Cigna,10019
+-990362262506286342A,Short Term Disability,Life & Disability,TRUE,Mutual Of Omaha,8033
+6391710673382285424A,Voluntary Life,Life & Disability,TRUE,Mutual Of Omaha,5702
+-4746316444021635753A,Basic Life / AD&D,Life & Disability,TRUE,Mutual Of Omaha,5267
+-6706132624591711065A,Long Term Disability,Life & Disability,TRUE,Mutual Of Omaha,5766
+-7228891303379494048A,Voluntary AD&D,Life & Disability,TRUE,Mutual Of Omaha,692
+-149845847250731362A,Voluntary AD&D,Life & Disability,TRUE,Lincoln,14832
+-7870671365943238521A,Long Term Disability,Life & Disability,TRUE,Lincoln,51756
+8463222767112556117A,Basic Dependent Life,Life & Disability,TRUE,Lincoln,528
+-419377268642772382A,Voluntary Life,Life & Disability,TRUE,Lincoln,83472
+-4079583506411738974A,Accident,Worksite,TRUE,MetLife,21833
+7532404186397659141A,Basic Life / AD&D,Life & Disability,TRUE,Lincoln,24312
+4211958038730490510A,Critical Illness,Worksite,TRUE,MetLife,108874
+552584550610539326A,ASO STD,Life & Disability,TRUE,Lincoln,6279
+-3383953410471271176A,Accident,Worksite,FALSE,,100
+-4891702808881545655A,Hospital Indemnity,Worksite,FALSE,,100
+8205333337926900758A,Critical Illness,Worksite,FALSE,,100
+-5033273661176647192A,Basic Life / AD&D,Life & Disability,TRUE,Blue Cross Blue Shield,8422
+-4174478362067379634A,Short Term Disability,Life & Disability,TRUE,Blue Cross Blue Shield,16589
+-7921270617288298004A,Vision,Dental/Vision,TRUE,Blue Cross Blue Shield,12961
+2128784507644747924A,Long Term Disability,Life & Disability,TRUE,Blue Cross Blue Shield,22143
+-9178035073742521528A,Dental,Dental/Vision,TRUE,Blue Cross Blue Shield,50860
+5567331740526858369A,Voluntary Life,Life & Disability,TRUE,Blue Cross Blue Shield,12524
+4821167400072225283A,Basic Life / AD&D,Life & Disability,TRUE,Lincoln,14760
+1379471571825043609A,Voluntary Life,Life & Disability,TRUE,Lincoln,28000
+-2332448163662436562A,Short Term Disability,Life & Disability,TRUE,Lincoln,5520
+-4886136443756952480A,Long Term Disability,Life & Disability,TRUE,Lincoln,6500
+-3481349063790074689A,Basic Life / AD&D,Life & Disability,FALSE,,5544
+-5947620506087963806A,Short Term Disability,Life & Disability,FALSE,,36960
+8277981615521030350A,Absence Management,Life & Disability,FALSE,,3696
+8354778572797539588A,Long Term Disability,Life & Disability,FALSE,,36960
+9081945652649024802A,Dental,Dental/Vision,TRUE,Principal,38005
+-3724215390754112319A,Voluntary Life / AD&D,Life & Disability,TRUE,Principal,19535
+4547723759662104988A,Vision,Dental/Vision,TRUE,Principal,7717
+2639129325150440528A,Accident,Worksite,TRUE,Guardian,4267
+-3078046500248728050A,Voluntary Life,Life & Disability,TRUE,Guardian,6273
+8412239500514696021A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,12897
+-4584925858438366924A,Basic Life / AD&D,Life & Disability,TRUE,MetLife,12000
+2400226742342351645A,Vision,Dental/Vision,TRUE,MetLife,32400
+7726587634053330893A,Voluntary Life,Life & Disability,TRUE,MetLife,30000
+4836772795009511216A,Voluntary AD&D,Life & Disability,TRUE,MetLife,3000
+6569840260081899118A,Dental,Dental/Vision,TRUE,MetLife,224000
+6775952177138237845A,Critical Illness,Worksite,TRUE,Guardian,1620
+-8631493554787944316A,Vision,Dental/Vision,TRUE,Guardian,14160
+8700809177239210162A,Short Term Disability,Life & Disability,TRUE,Guardian,37200
+-4203537436414903540A,Voluntary Life,Life & Disability,TRUE,Guardian,5520
+8714071294511427097A,Accident,Worksite,TRUE,Guardian,2580
+-1727395988530267024A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,5616
+4720602551111284369A,Long Term Disability,Life & Disability,TRUE,Guardian,37200
+-9192087977596669048A,Dental,Dental/Vision,TRUE,Guardian,46440
+-3599061360548029503A,Voluntary AD&D,Life & Disability,TRUE,Guardian,32
+8452230835945967776A,Basic Life / AD&D,Life & Disability,TRUE,Blue Cross Blue Shield,13188
+3380864745392082736A,Voluntary AD&D,Life & Disability,TRUE,Blue Cross Blue Shield,2724
+-3565289972685508117A,Long Term Disability,Life & Disability,TRUE,Blue Cross Blue Shield,62172
+8428669184718335598A,Accident,Worksite,TRUE,Blue Cross Blue Shield,40860
+8799232702022758347A,Vision,Dental/Vision,TRUE,Blue Cross Blue Shield,39204
+1246027885570419203A,Critical Illness,Worksite,TRUE,Blue Cross Blue Shield,21480
+-7720535677729000032A,Short Term Disability,Life & Disability,TRUE,Blue Cross Blue Shield,78732
+522283900156742173A,Dental,Dental/Vision,TRUE,Blue Cross Blue Shield,83520
+8608617029151699421A,Voluntary Life,Life & Disability,TRUE,Blue Cross Blue Shield,27912
+5581632219329685329A,Vision,Dental/Vision,TRUE,Anthem,84960
+3646700652529145331A,Accident,Worksite,FALSE,,100
+-5762273307031340324A,Critical Illness,Worksite,FALSE,,100
+-8744568971247248831A,Hospital Indemnity,Worksite,FALSE,,100
+1158396463263735318A,Long Term Disability,Life & Disability,TRUE,Guardian,36240
+6103737869070472951A,Short Term Disability,Life & Disability,TRUE,Guardian,36240
+227169417831901364A,Accident,Worksite,TRUE,Guardian,1200
+-5891969995133793733A,Voluntary Life,Life & Disability,TRUE,Guardian,10500
+-8489981539668772362A,Dental,Dental/Vision,TRUE,Guardian,48000
+4883937726002337491A,Basic Dependent Life,Life & Disability,TRUE,Guardian,3000
+4989185189523016703A,Vision,Dental/Vision,TRUE,Guardian,16000
+2157413660909801820A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,5400
+7103504127950542942A,Critical Illness,Worksite,TRUE,Guardian,1200
+-8581075016300370333A,Long Term Disability,Life & Disability,FALSE,,20400
+-8772541609862605043A,Voluntary Life,Life & Disability,FALSE,,1500
+1898745481059617903A,Short Term Disability,Life & Disability,TRUE,Blue Cross Blue Shield,12540
+2995278135484975917A,Basic Life / AD&D,Life & Disability,TRUE,Blue Cross Blue Shield,7459
+-610589971388342478A,Accident,Worksite,FALSE,,1000
+-5703418154501060852A,Critical Illness,Worksite,FALSE,,1000
+8330757670586739864A,Hospital Indemnity,Worksite,FALSE,,1000
+-9190621226974983175A,Accident,Worksite,TRUE,Guardian,300
+4408387589519150940A,Critical Illness,Worksite,FALSE,,300
+5611717294942396859A,Hospital Indemnity,Worksite,FALSE,,300
+2089503105816357791A,Dental,Dental/Vision,TRUE,Aetna,96000
+4318887549804200385A,Long Term Disability,Life & Disability,TRUE,Hartford,21192
+6374196712249264987A,Basic Life / AD&D,Life & Disability,TRUE,Hartford,31200
+-302220746423600937A,Short Term Disability,Life & Disability,TRUE,Hartford,48000
+-6280721148474010967A,Voluntary Life / AD&D,Life & Disability,TRUE,Hartford,5000
+-9059600319639717916A,Long Term Disability,Life & Disability,TRUE,Guardian,10555
+-725794224690748723A,Short Term Disability,Life & Disability,TRUE,Guardian,44129
+-7493580479449145077A,Accident,Worksite,TRUE,Guardian,1400
+5445500059680212474A,Vision,Dental/Vision,TRUE,Guardian,14290
+3325721360234435079A,Dental,Dental/Vision,TRUE,Guardian,8262
+2449655303083360380A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,7879
+4204019303417235235A,Critical Illness,Worksite,TRUE,Guardian,2100
+-4927450266876548255A,Voluntary Life / AD&D,Life & Disability,TRUE,Guardian,3000
+6562941975926157084A,Vision,Dental/Vision,FALSE,,8520
+-6526151358325479917A,Short Term Disability,Life & Disability,TRUE,Unum,350000
+-4818976714268126299A,Voluntary Life / AD&D,Life & Disability,TRUE,Unum,214000
+-8364636937204680513A,Basic Life / AD&D,Life & Disability,TRUE,Unum,100000
+-3639615779376192278A,Long Term Disability,Life & Disability,TRUE,Unum,200000
+-7358778433915141360A,Short Term Disability,Life & Disability,FALSE,,16000
+6292509719252396163A,Vision,Dental/Vision,TRUE,UnitedHealthcare,4000
+-4071295992811831711A,Basic Life / AD&D,Life & Disability,TRUE,Anthem,5000
+-3680646968010983996A,Long Term Disability,Life & Disability,TRUE,Unum,29630
+-7923769247948510912A,Basic Life / AD&D,Life & Disability,TRUE,Unum,3873
+2315930664528605198A,Voluntary Life,Life & Disability,FALSE,,8000
+-2919937979211448543A,Accident,Worksite,FALSE,,0
+-2783541157164359512A,Critical Illness,Worksite,FALSE,,0
+4440603762829567589A,Hospital Indemnity,Worksite,FALSE,,0
+3389629425035336082A,Hospital Indemnity,Worksite,FALSE,,100
+504391379948552415A,Accident,Worksite,FALSE,,100
+5982211275913802819A,Critical Illness,Worksite,FALSE,,100
+-2512889169292547262A,Vision,Dental/Vision,TRUE,Guardian,3500
+-3382304785169459746A,Dental,Dental/Vision,TRUE,Guardian,12000
+38801196774554720A,Vision,Dental/Vision,TRUE,Guardian,12693
+-460841500896165A,Short Term Disability,Life & Disability,TRUE,Guardian,26455
+2501169770287708945A,Long Term Disability,Life & Disability,TRUE,Guardian,34000
+-7990985921564601337A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,29000
+-6610069111534532821A,Dental,Dental/Vision,TRUE,Guardian,80000
+8542396145457807355A,Hospital Indemnity,Worksite,TRUE,Guardian,100
+-2511659458044770915A,Critical Illness,Worksite,TRUE,Guardian,160
+-3279442882549953174A,Accident,Worksite,TRUE,Guardian,900
+2609445121824041520A,Voluntary Life / AD&D,Life & Disability,TRUE,Guardian,2000
+3092207437608441520A,Short Term Disability,Life & Disability,TRUE,Guardian,24370
+3672837262273332262A,Vision,Dental/Vision,TRUE,Guardian,7934
+-1518336389037234985A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,22206
+-8900953478887617320A,Long Term Disability,Life & Disability,TRUE,Guardian,13329
+343372333553948010A,Dental,Dental/Vision,TRUE,Guardian,120000
+2638461411649644945A,Vision,Dental/Vision,TRUE,Guardian,80000
+-2670970015757405566A,Dental,Dental/Vision,TRUE,Guardian,78055
+6538122082612981014A,Critical Illness,Worksite,FALSE,,200
+3306001151360284266A,Accident,Worksite,FALSE,,200
+-3559475801751573834A,Hospital Indemnity,Worksite,FALSE,,200
+1327764412522688615A,Accident,Worksite,FALSE,,3000
+-4216926085443779562A,Hospital Indemnity,Worksite,FALSE,,3000
+-1594023446234036907A,Critical Illness,Worksite,FALSE,,3000
+2695443184810727573A,Long Term Disability,Life & Disability,TRUE,Mutual Of Omaha,3600
+7608551646637949654A,Short Term Disability,Life & Disability,TRUE,Mutual Of Omaha,3600
+2454616495390213813A,Basic Life / AD&D,Life & Disability,TRUE,Mutual Of Omaha,4500
+-605872029508069845A,Voluntary Life / AD&D,Life & Disability,TRUE,Mutual Of Omaha,4000
+311502929052872738A,Dental,Dental/Vision,TRUE,MetLife,12000
+-4921591682788474935A,Vision,Dental/Vision,TRUE,Anthem,0
+-9154722288690689169A,Critical Illness,Worksite,TRUE,Guardian,1020
+4727642783974052342A,Accident,Worksite,TRUE,Guardian,8438
+-7308066711701175805A,Basic Life / AD&D,Life & Disability,TRUE,Dearborn Group,4800
+-8403960240015934374A,Voluntary Life,Life & Disability,TRUE,Dearborn Group,25200
+5408532885739098230A,Short Term Disability,Life & Disability,TRUE,Dearborn Group,24000
+-6110588608449734123A,Vision,Dental/Vision,TRUE,Dearborn Group,9648
+-3812798697160983196A,Long Term Disability,Life & Disability,TRUE,Dearborn Group,15732
+-753668363048685046A,Dental,Dental/Vision,TRUE,Blue Cross Blue Shield,18000
+-920364425574741447A,Dental,Dental/Vision,TRUE,Guardian,140456
+7094497715760521196A,Vision,Dental/Vision,TRUE,Blue Cross Blue Shield,18396
+-1685545003375573009A,Short Term Disability,Life & Disability,TRUE,Blue Cross Blue Shield,19320
+-274586499494469616A,Voluntary Life,Life & Disability,TRUE,Blue Cross Blue Shield,17808
+3997871513666152086A,Basic Life / AD&D,Life & Disability,TRUE,Blue Cross Blue Shield,12480
+5883221116011643232A,Voluntary AD&D,Life & Disability,TRUE,Blue Cross Blue Shield,3648
+3495585915275158901A,Long Term Disability,Life & Disability,TRUE,Blue Cross Blue Shield,31656
+-6052677822796974008A,Hospital Indemnity,Worksite,FALSE,,0
+-705597078065404258A,Critical Illness,Worksite,FALSE,,0
+-7109205643624697915A,Accident,Worksite,FALSE,,0
+3578033705088533385A,Dental,Dental/Vision,TRUE,Dental Care Plus,0
+4578458684172738668A,Vision,Dental/Vision,TRUE,EyeMed,0
+-2027021485363936191A,Basic Life / AD&D,Life & Disability,TRUE,Lincoln,0
+6875840595943025215A,Voluntary Life / AD&D,Life & Disability,TRUE,Lincoln,0
+-476917718906242220A,Short Term Disability,Life & Disability,TRUE,Lincoln,0
+3480368240784104322A,Long Term Disability,Life & Disability,TRUE,Lincoln,0
+5609428182624556382A,Basic Dependent Life,Life & Disability,TRUE,Standard,102084
+3730696790148498392A,Voluntary AD&D,Life & Disability,TRUE,Standard,99132
+-8642312657685458848A,Voluntary Life,Life & Disability,TRUE,Standard,974628
+-8209093812206099713A,Short Term Disability,Life & Disability,TRUE,Standard,1421820
+-9114274869670586808A,Basic Life / AD&D,Life & Disability,TRUE,Standard,798012
+73152555536006516A,Long Term Disability,Life & Disability,TRUE,Standard,2244276
+6357522663658386444A,Long Term Disability,Life & Disability,TRUE,Lincoln,21368
+2710194985151698981A,Dental,Dental/Vision,TRUE,Lincoln,90733
+-2871192623036844444A,Vision,Dental/Vision,TRUE,Lincoln,12937
+-6893939189505087097A,Short Term Disability,Life & Disability,TRUE,Lincoln,33366
+-6420775067827437637A,Voluntary Life,Life & Disability,TRUE,Lincoln,37855
+8182084446986316938A,Basic Life / AD&D,Life & Disability,TRUE,Lincoln,10537
+2448854632420778142A,Vision,Dental/Vision,TRUE,Guardian,29000
+-1694970450540101999A,Voluntary Life,Life & Disability,TRUE,Guardian,53357
+-1645321398518337451A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,16910
+7739895545761306006A,Long Term Disability,Life & Disability,TRUE,Guardian,16254
+-1343569928584575292A,Dental,Dental/Vision,TRUE,Guardian,123258
+-4886754642213661930A,Short Term Disability,Life & Disability,TRUE,Guardian,55334
+7660329756257495693A,Dental,Dental/Vision,TRUE,Humana,23815
+4668925124937407451A,Vision,Dental/Vision,TRUE,VSP,2100
+-6318614426167425391A,Basic Life / AD&D,Life & Disability,TRUE,Humana,3656
+-7066375192047104439A,Short Term Disability,Life & Disability,TRUE,Mutual Of Omaha,24859
+5720720748850040564A,Short Term Disability,Life & Disability,FALSE,,31680
+-4471011069139345970A,Dental,Dental/Vision,TRUE,Guardian,67741
+3193603251697244303A,Long Term Disability,Life & Disability,TRUE,Guardian,27678
+3358097531081758222A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,24016
+-9020355036444240559A,Vision,Dental/Vision,TRUE,Guardian,9233
+-6184517570757727537A,Hospital Indemnity,Worksite,FALSE,,100
+5999583580874858174A,Accident,Worksite,FALSE,,100
+-5925313635205993835A,Critical Illness,Worksite,FALSE,,100
+6450604611523664461A,Critical Illness,Worksite,FALSE,,100
+-3268393400961825770A,Hospital Indemnity,Worksite,FALSE,,100
+796569250182026577A,Accident,Worksite,FALSE,,100
+8876413759098223911A,Hospital Indemnity,Worksite,FALSE,,100
+5550775745484955201A,Critical Illness,Worksite,FALSE,,100
+8627803362886261055A,Accident,Worksite,FALSE,,100
+3012974761766054499A,Critical Illness,Worksite,FALSE,,1000
+-6468724311824236919A,Long Term Disability,Life & Disability,TRUE,Guardian,16033
+-1138507353322781693A,Basic Dependent Life,Life & Disability,TRUE,Guardian,1008
+2323292610245297626A,Vision,Dental/Vision,TRUE,Guardian,6221
+6148081549261724719A,Short Term Disability,Life & Disability,TRUE,Guardian,10467
+-3107597980090458250A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,10898
+-2165500640051736497A,Dental,Dental/Vision,TRUE,Guardian,18424
+-7322249482347880391A,Accident,Worksite,FALSE,,1000
+1966784609730957943A,Long Term Disability,Life & Disability,TRUE,Lincoln,3192
+-8456532568128954561A,Short Term Disability,Life & Disability,TRUE,Lincoln,1848
+-286315601241770269A,Voluntary Life,Life & Disability,TRUE,Lincoln,6420
+-5730656393203443529A,Voluntary AD&D,Life & Disability,TRUE,Lincoln,516
+6692093869419133856A,Voluntary Life,Life & Disability,FALSE,,1000
+4331424131284332335A,Voluntary AD&D,Life & Disability,FALSE,,500
+5680181152662613047A,Dental,Dental/Vision,TRUE,Anthem,46731
+-8732177025460179274A,Short Term Disability,Life & Disability,TRUE,Anthem,8000
+4372670835180625605A,Vision,Dental/Vision,TRUE,Anthem,1030
+-2705339611660292677A,Long Term Disability,Life & Disability,TRUE,Anthem,9780
+-4095439996068121155A,Basic Life / AD&D,Life & Disability,TRUE,Anthem,4608
+-6291123133660506622A,Long Term Disability,Life & Disability,TRUE,Guardian,12479
+6366416528520003391A,Dental,Dental/Vision,TRUE,Guardian,96756
+-8807125531607346631A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,12825
+-79804461401252705A,Vision,Dental/Vision,TRUE,Guardian,10539
+-117831031180526326A,Long Term Disability,Life & Disability,FALSE,,48000
+-4690363516086297693A,Short Term Disability,Life & Disability,FALSE,,48000
+8295133967007102548A,ASO STD,Life & Disability,FALSE,,2000
+-4488920505094473269A,Vision,Dental/Vision,TRUE,Dearborn Group,3600
+-3617996034967887049A,Long Term Disability,Life & Disability,TRUE,Dearborn Group,4440
+4130001304389822421A,Short Term Disability,Life & Disability,TRUE,Dearborn Group,11040
+-6666268609311016133A,Basic Life / AD&D,Life & Disability,TRUE,Dearborn Group,2196
+3013769472296463318A,Voluntary Life,Life & Disability,TRUE,Dearborn Group,4560
+1471616983912663395A,Dental,Dental/Vision,TRUE,Blue Cross Blue Shield,9000
+-5887320295447390175A,Critical Illness,Worksite,FALSE,,1000
+3327378365904648413A,Hospital Indemnity,Worksite,FALSE,,1000
+-1215492373847794836A,Accident,Worksite,FALSE,,1000
+7212315986156882364A,Critical Illness,Worksite,FALSE,,1000
+-6145879431166402878A,Hospital Indemnity,Worksite,FALSE,,1000
+2785535395410991913A,Accident,Worksite,FALSE,,1000
+6618656015166522207A,Vision,Dental/Vision,TRUE,Anthem,14353
+791206866542936572A,Dental,Dental/Vision,TRUE,Anthem,54478
+-5224350732048766118A,Basic Life / AD&D,Life & Disability,TRUE,Anthem,4395
+-267275792706412471A,Basic Life / AD&D,Life & Disability,TRUE,Prudential,35761
+4759348347661298366A,Voluntary Life,Life & Disability,TRUE,Prudential,23562
+5671136551249721719A,Long Term Disability,Life & Disability,TRUE,Prudential,40478
+7793601534999812603A,Short Term Disability,Life & Disability,TRUE,Prudential,63300
+1661785077734667005A,Basic Life / AD&D,Life & Disability,TRUE,Unum,7776
+2056431103823384583A,Voluntary Life / AD&D,Life & Disability,TRUE,Unum,13629
+2884677960601392001A,Long Term Disability,Life & Disability,TRUE,Unum,10320
+1099990422297593827A,Short Term Disability,Life & Disability,TRUE,Unum,11040
+3968316190418490699A,Vision,Dental/Vision,TRUE,UnitedHealthcare,74880
+-8007419896209754173A,Dental,Dental/Vision,TRUE,UnitedHealthcare,257040
+7033493362847913946A,Long Term Disability,Life & Disability,TRUE,Companion Life,15321
+-824843019287818421A,Short Term Disability,Life & Disability,TRUE,Companion Life,17169
+2501938421968650817A,Dental,Dental/Vision,TRUE,Companion Life,49815
+9165612526711580894A,Basic Life / AD&D,Life & Disability,TRUE,Companion Life,5676
+206474432460078883A,Vision,Dental/Vision,TRUE,Companion Life,7400
+-6345587600802563127A,Hospital Indemnity,Worksite,FALSE,,1000
+1933485203971525482A,Accident,Worksite,FALSE,,1000
+6449070611200031470A,Critical Illness,Worksite,FALSE,,1000
+-4879918816654784645A,Voluntary Life / AD&D,Life & Disability,TRUE,Dearborn Group,0
+-7516709400981941298A,Basic Life / AD&D,Life & Disability,TRUE,Dearborn Group,19
+7670539977634395445A,Short Term Disability,Life & Disability,TRUE,Dearborn Group,53
+-2265087505067273104A,Long Term Disability,Life & Disability,TRUE,Dearborn Group,17
+4126816663938002805A,Dental,Dental/Vision,TRUE,Dearborn Group,101
+7665476927404635815A,Vision,Dental/Vision,TRUE,Dearborn Group,18
+-3027406983367622281A,Short Term Disability,Life & Disability,TRUE,Dearborn Group,10
+6215186940755153573A,Dental,Dental/Vision,TRUE,UnitedHealthcare,60
+-7467043046757429621A,Basic Life / AD&D,Life & Disability,TRUE,Dearborn Group,10
+-3880854353754563065A,Accident,Worksite,TRUE,Guardian,3
+7875019420103581299A,Vision,Dental/Vision,TRUE,UnitedHealthcare,8
+-7205200388513607605A,Critical Illness,Worksite,TRUE,Guardian,1
+-7078460810703404155A,Voluntary Life,Life & Disability,TRUE,Dearborn Group,17
+4711669387899052858A,Long Term Disability,Life & Disability,TRUE,Dearborn Group,13
+4960616975502625331A,Accident,Worksite,TRUE,UnitedHealthcare,100
+-8666393189022232947A,Dental,Dental/Vision,TRUE,UnitedHealthcare,41000
+855838654975487695A,Basic Life / AD&D,Life & Disability,TRUE,UnitedHealthcare,5000
+5640354280903350144A,Vision,Dental/Vision,TRUE,UnitedHealthcare,6000
+-1384803662075539211A,Short Term Disability,Life & Disability,TRUE,UnitedHealthcare,10000
+-7557772801471828012A,Critical Illness,Worksite,TRUE,UnitedHealthcare,100
+-2549924855687371541A,Dental,Dental/Vision,TRUE,UnitedHealthcare,35649
+8950973791449378502A,Voluntary Life / AD&D,Life & Disability,TRUE,UnitedHealthcare,1000
+-4602512415030997495A,Accident,Worksite,TRUE,UnitedHealthcare,1409
+-3267573467913438042A,Vision,Dental/Vision,TRUE,UnitedHealthcare,3672
+-830095569835445703A,Basic Life / AD&D,Life & Disability,TRUE,UnitedHealthcare,2299
+4057987568665914243A,Critical Illness,Worksite,TRUE,UnitedHealthcare,1366
+4667530077922204730A,Vision,Dental/Vision,TRUE,Anthem,19560
+-9046217005899217077A,Dental,Dental/Vision,TRUE,Anthem,70560
+-4431816768220755804A,Voluntary Life,Life & Disability,TRUE,Cigna,2000
+3095012383665526621A,Voluntary AD&D,Life & Disability,TRUE,Cigna,3200
+4885561593987028926A,Basic Life / AD&D,Life & Disability,TRUE,Cigna,9468
+-900213639590817796A,Short Term Disability,Life & Disability,TRUE,Cigna,35520
+-1052649401920834516A,Long Term Disability,Life & Disability,TRUE,Cigna,55000
+2106195641018856271A,Basic Life / AD&D,Life & Disability,TRUE,Sun Life,33443
+-2270703689104939676A,Vision,Dental/Vision,TRUE,Sun Life,20963
+-7948669763391073132A,Dental,Dental/Vision,TRUE,Sun Life,91207
+-4395141011559084817A,Long Term Disability,Life & Disability,TRUE,Sun Life,162120
+-131214633242291214A,Hospital Indemnity,Worksite,FALSE,,240
+-5946415097383101351A,Vision,Dental/Vision,FALSE,,2400
+1863365143973891004A,Dental,Dental/Vision,FALSE,,6000
+-869862536408092644A,Accident,Worksite,FALSE,,240
+8796634369156066057A,Critical Illness,Worksite,FALSE,,240
+-2983759004586630957A,Hospital Indemnity,Worksite,FALSE,,1000
+4428584204628387770A,Accident,Worksite,FALSE,,1000
+-7766673029086130580A,Critical Illness,Worksite,FALSE,,1000
+-7732827819873047120A,Dental,Dental/Vision,TRUE,Guardian,240000
+-8553443072449656010A,Vision,Dental/Vision,TRUE,Guardian,50000
+-2262685461167939052A,Long Term Disability,Life & Disability,TRUE,Guardian,120000
+-1448665305208458611A,Short Term Disability,Life & Disability,TRUE,Guardian,120000
+-5044012173703553107A,Accident,Worksite,TRUE,Guardian,5000
+-7582700622558969779A,Critical Illness,Worksite,TRUE,Guardian,5000
+5512835731077700137A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,50000
+1612279685351587688A,Voluntary Life / AD&D,Life & Disability,TRUE,Guardian,0
+1744473702150134726A,Absence Management,Life & Disability,TRUE,Sedgwick,0
+3706349282989748602A,Long Term Disability,Life & Disability,TRUE,OneAmerica,81980
+6274321508764174124A,Voluntary Life,Life & Disability,TRUE,OneAmerica,246538
+1045600924261842661A,Basic Life / AD&D,Life & Disability,TRUE,OneAmerica,55342
+3812362791180788996A,Voluntary AD&D,Life & Disability,TRUE,OneAmerica,7185
+229869739090116528A,ASO STD,Life & Disability,TRUE,OneAmerica,15852
+-6109396147362899394A,Short Term Disability,Life & Disability,TRUE,Standard,2100000
+6569971616181566749A,Basic Life / AD&D,Life & Disability,TRUE,Standard,130000
+-1481044315779657442A,Dental,Dental/Vision,TRUE,Medical Mutual,7812
+2038092086304976739A,Basic Life / AD&D,Life & Disability,TRUE,Medical Mutual,3196
+361756943873001418A,Voluntary Life,Life & Disability,TRUE,Medical Mutual,7680
+256701570468556782A,Hospital Indemnity,Worksite,FALSE,,100
+7585955257892364638A,Critical Illness,Worksite,FALSE,,100
+1385081041449920175A,Accident,Worksite,FALSE,,100
+3220168193429360979A,Dental,Dental/Vision,TRUE,Humana,17000
+-7370802499245113305A,Short Term Disability,Life & Disability,TRUE,Guardian,13544
+8167682706417566053A,Long Term Disability,Life & Disability,TRUE,Guardian,22000
+-2408554509124082373A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,3491
+-3633185719649420158A,Voluntary Life,Life & Disability,TRUE,Guardian,360
+2499822682937523418A,Hospital Indemnity,Worksite,FALSE,,120
+2190322863068229987A,Critical Illness,Worksite,FALSE,,120
+-7244534031476592425A,Accident,Worksite,FALSE,,120
+7705328895963220252A,ASO STD,Life & Disability,TRUE,Guardian,4858
+-8996434072431503192A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,58000
+-3664704577840803148A,Dental,Dental/Vision,TRUE,Guardian,18942
+-447561958546060847A,Short Term Disability,Life & Disability,TRUE,Guardian,4586
+-2961050000504828465A,Voluntary Life,Life & Disability,TRUE,Guardian,90000
+9068343783782252383A,Vision,Dental/Vision,TRUE,Guardian,24126
+7423237203161026852A,Long Term Disability,Life & Disability,TRUE,Guardian,78846
+6113824766943476377A,Voluntary AD&D,Life & Disability,TRUE,Guardian,1500
+-6377379174800124798A,Short Term Disability,Life & Disability,TRUE,Sun Life,75000
+-5172553362125550939A,Basic Life / AD&D,Life & Disability,TRUE,Reliance Standard,7200
+1930652351437502737A,Long Term Disability,Life & Disability,TRUE,Sun Life,10764
+8207762269213737557A,Dental,Dental/Vision,TRUE,AultCare,500
+-8899338976580659371A,Vision,Dental/Vision,TRUE,EyeMed,1800
+4833557006164717584A,Vision,Dental/Vision,TRUE,UnitedHealthcare,6360
+4326834210082336854A,Short Term Disability,Life & Disability,TRUE,Guardian,3000
+6349413967627161261A,Basic Life / AD&D,Life & Disability,TRUE,UnitedHealthcare,1560
+6868849002688898612A,Long Term Disability,Life & Disability,FALSE,,15000
+-8783470531451825689A,Voluntary Life,Life & Disability,TRUE,Guardian,3744
+-3730983694725609750A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,10800
+8192990901984728985A,ASO STD,Life & Disability,TRUE,Guardian,4624
+1079132236191502897A,Long Term Disability,Life & Disability,TRUE,Guardian,10214
+1112459616120042980A,Vision,Dental/Vision,TRUE,Guardian,11872
+-6923163888997071236A,Dental,Dental/Vision,TRUE,Guardian,7344
+-8718542860092310207A,Voluntary Life,Life & Disability,TRUE,Guardian,3000
+-906010632860260429A,Hospital Indemnity,Worksite,FALSE,,200
+-1651984871788054261A,Accident,Worksite,FALSE,,30
+-1792951590467522881A,Critical Illness,Worksite,FALSE,,30
+3847668962072007997A,Hospital Indemnity,Worksite,FALSE,,30
+1306385420855408155A,Critical Illness,Worksite,FALSE,,200
+-3420835642556977690A,Accident,Worksite,FALSE,,200
+4578041321864983983A,Voluntary Life / AD&D,Life & Disability,TRUE,Lincoln,2000
+7749715750938016191A,Basic Life / AD&D,Life & Disability,TRUE,Lincoln,7500
+872488768397000941A,Vision,Dental/Vision,TRUE,EyeMed,11927
+3870221782491785247A,Dental,Dental/Vision,TRUE,Dental Care Plus,27938
+-7383653467663712582A,Vision,Dental/Vision,TRUE,Guardian,6000
+-1195529383928192755A,Dental,Dental/Vision,TRUE,Guardian,56412
+-8735886271515802496A,Short Term Disability,Life & Disability,FALSE,,15000
+9191316676419512537A,Critical Illness,Worksite,FALSE,,100
+9194266322296861294A,Accident,Worksite,FALSE,,100
+-5146736999985866236A,Critical Illness,Worksite,FALSE,,100
+1038062756185686503A,Accident,Worksite,FALSE,,100
+-1454451136706136501A,Voluntary Life / AD&D,Life & Disability,TRUE,Sun Life,45916
+-3944438461965067357A,Accident,Worksite,TRUE,Sun Life,4401
+9139693078962780102A,Long Term Disability,Life & Disability,TRUE,Sun Life,48976
+-2992079842331076733A,Basic Life / AD&D,Life & Disability,TRUE,Sun Life,26370
+875062067426620162A,Dental,Dental/Vision,TRUE,MetLife,57004
+-7185921648473194581A,Critical Illness,Worksite,TRUE,Sun Life,2236
+7029383802390505310A,ASO STD,Life & Disability,TRUE,Sun Life,1844
+-6422372392954720124A,Vision,Dental/Vision,TRUE,VSP,8116
+-8259663878704800159A,Voluntary Life,Life & Disability,TRUE,Lincoln,10156
+-5148610285722722153A,Basic Life / AD&D,Life & Disability,TRUE,Lincoln,10156
+8046660791506807806A,Long Term Disability,Life & Disability,TRUE,Lincoln,10156
+2212763397274016592A,Vision,Dental/Vision,TRUE,VSP,16728
+5316041251694629658A,Dental,Dental/Vision,TRUE,Blue Cross Blue Shield,145069
+8907627574992769216A,Voluntary AD&D,Life & Disability,TRUE,Principal,254
+-3726816741761949841A,Long Term Disability,Life & Disability,TRUE,Principal,7499
+1653987720479970335A,Basic Life / AD&D,Life & Disability,TRUE,Principal,5484
+-309211348102247155A,Voluntary Life,Life & Disability,TRUE,Principal,4428
+-7363340965165614064A,Vision,Dental/Vision,TRUE,Principal,5903
+3319666234221375578A,Dental,Dental/Vision,TRUE,Principal,51916
+5387327045295796549A,Long Term Disability,Life & Disability,TRUE,Lincoln,27360
+8432701602849652164A,Short Term Disability,Life & Disability,TRUE,Lincoln,23760
+-4958231496013647810A,Basic Life / AD&D,Life & Disability,TRUE,Lincoln,4212
+8814405277593467289A,Long Term Disability,Life & Disability,TRUE,Mutual Of Omaha,23520
+-3715268118588193761A,Basic Life / AD&D,Life & Disability,TRUE,Mutual Of Omaha,3528
+-1419813245969645102A,Voluntary Life,Life & Disability,TRUE,Mutual Of Omaha,3420
+2988747156489224823A,Short Term Disability,Life & Disability,TRUE,Mutual Of Omaha,23520
+7107485396917680509A,Dental,Dental/Vision,TRUE,UnitedHealthcare,86040
+4383257295020380952A,Vision,Dental/Vision,TRUE,UnitedHealthcare,26560
+-1143909708622211267A,Vision,Dental/Vision,TRUE,Aetna,60000
+8801985577841641669A,ASO STD,Life & Disability,TRUE,Aetna,0
+2856404793710941410A,Short Term Disability,Life & Disability,TRUE,Aetna,100000
+6682791942116168951A,Long Term Disability,Life & Disability,TRUE,Aetna,10000
+5300306520485757752A,Absence Management,Life & Disability,TRUE,Aetna,10000
+-2765197904582190584A,Voluntary AD&D,Life & Disability,TRUE,Aetna,10000
+7042462640730324293A,Voluntary Life,Life & Disability,TRUE,Aetna,100000
+-1404709900601671590A,Basic Life / AD&D,Life & Disability,TRUE,Aetna,175000
+-2394053478293820813A,Critical Illness,Worksite,TRUE,MetLife,135000
+-8899022908448640871A,Accident,Worksite,TRUE,MetLife,10000
+6651992395469883368A,Dental,Dental/Vision,TRUE,Delta Dental,313000
+-5671331438865818019A,Dental,Dental/Vision,TRUE,Cigna,195521
+5282525493381231918A,Dental,Dental/Vision,TRUE,MetLife,62000
+8319043798652451950A,Basic Life / AD&D,Life & Disability,TRUE,MetLife,22328
+-764140422436696356A,Long Term Disability,Life & Disability,TRUE,MetLife,20158
+-8503540418213566561A,Vision,Dental/Vision,TRUE,MetLife,15000
+-7458532252553572209A,Accident,Worksite,FALSE,,1000
+-7062214660968576662A,Hospital Indemnity,Worksite,FALSE,,1000
+4792827503388776300A,Critical Illness,Worksite,FALSE,,1000
+-3433718742725418069A,Critical Illness,Worksite,TRUE,Unum,600
+-9166453968853965067A,Accident,Worksite,TRUE,Unum,600
+-6702194611914019357A,Short Term Disability,Life & Disability,TRUE,Cigna,17760
+5903997365861100993A,Basic Life / AD&D,Life & Disability,TRUE,Cigna,2664
+-5009887545208686339A,Long Term Disability,Life & Disability,TRUE,Cigna,17760
+-7233093002566120160A,Voluntary Life,Life & Disability,TRUE,Cigna,3600
+3301721761437279632A,Dental,Dental/Vision,TRUE,Delta Dental,9000
+6541916140766437060A,Vision,Dental/Vision,TRUE,EyeMed,3000
+4327497374057472675A,Dental,Dental/Vision,TRUE,Cigna,10579
+-6044355181190387993A,Critical Illness,Worksite,FALSE,,0
+5189913376018964021A,Dental,Dental/Vision,TRUE,Delta Dental,89424
+-6260184567372068990A,Long Term Disability,Life & Disability,TRUE,Guardian,42300
+6586666348391794901A,Accident,Worksite,TRUE,Guardian,6217
+677723911033344573A,Voluntary AD&D,Life & Disability,TRUE,Guardian,1179
+-1874213725870756403A,Voluntary Life,Life & Disability,TRUE,Guardian,47359
+4999819325262707704A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,21769
+-6415648390627155280A,Short Term Disability,Life & Disability,TRUE,Guardian,85885
+-165160349338975741A,Dental,Dental/Vision,TRUE,Anthem,130737
+5550125125454934666A,Accident,Worksite,TRUE,Anthem,90
+-8341797424305214555A,Short Term Disability,Life & Disability,TRUE,Anthem,8100
+1507211139865555190A,Critical Illness,Worksite,TRUE,Anthem,102
+-743500716248905074A,Basic Life / AD&D,Life & Disability,TRUE,Anthem,14292
+-4500212212837020192A,Long Term Disability,Life & Disability,TRUE,Anthem,3960
+-8420141919383362977A,Voluntary Life,Life & Disability,TRUE,Anthem,5280
+8127437382250918384A,Vision,Dental/Vision,TRUE,Anthem,13380
+-6761428159388883853A,Dental,Dental/Vision,TRUE,UnitedHealthcare,238296
+6695965468171810216A,Vision,Dental/Vision,TRUE,Lincoln,47000
+3497068299755794794A,Accident,Worksite,TRUE,Unum,21426
+-4725103507725629855A,Long Term Disability,Life & Disability,TRUE,Unum,78912
+-972467614485201201A,Critical Illness,Worksite,TRUE,Unum,31815
+7218540252823601636A,Absence Management,Life & Disability,TRUE,Unum,16004
+7992352299240981987A,Short Term Disability,Life & Disability,TRUE,Unum,74282
+-3206520328601745015A,Basic Life / AD&D,Life & Disability,TRUE,Unum,63652
+-6410938402543655449A,Voluntary Life,Life & Disability,TRUE,Unum,42191
+-1239101607875541773A,Long Term Disability,Life & Disability,TRUE,Standard,14376
+-414063963736341072A,Short Term Disability,Life & Disability,TRUE,Standard,12576
+-4659777342048777747A,Basic Life / AD&D,Life & Disability,TRUE,Standard,2400
+-4172947581498526365A,Vision,Dental/Vision,TRUE,Standard,16188
+4459101744835071355A,Voluntary Life,Life & Disability,TRUE,Standard,24000
+2151293746304513358A,Dental,Dental/Vision,TRUE,Delta Dental,84500
+2647809237248529597A,Dental,Dental/Vision,TRUE,Guardian,49011
+2118312748572758805A,Long Term Disability,Life & Disability,TRUE,Guardian,3300
+4689060164950459608A,Voluntary AD&D,Life & Disability,TRUE,Guardian,580
+2205121438005503236A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,2034
+8256399117221581734A,Voluntary Life,Life & Disability,TRUE,Guardian,3228
+-6895649558531372914A,Vision,Dental/Vision,TRUE,EyeMed,8296
+1391495751944009430A,Basic Life / AD&D,Life & Disability,TRUE,Dearborn Group,14184
+7019197542981896651A,Vision,Dental/Vision,TRUE,Dearborn Group,10512
+4032609532359284248A,Voluntary AD&D,Life & Disability,TRUE,Dearborn Group,936
+-4215184512515182665A,Short Term Disability,Life & Disability,TRUE,Dearborn Group,12528
+-7787639747634721113A,Long Term Disability,Life & Disability,TRUE,Dearborn Group,4608
+-8696222372876820700A,Voluntary Life,Life & Disability,TRUE,Dearborn Group,22656
+-9125552060811651719A,Dental,Dental/Vision,TRUE,Blue Cross Blue Shield,84504
+-6400318562538260218A,Vision,Dental/Vision,TRUE,UnitedHealthcare,7750
+-4570900785460605328A,Dental,Dental/Vision,TRUE,UnitedHealthcare,55000
+1995097022126763068A,Voluntary AD&D,Life & Disability,TRUE,Sun Life,2000
+3710164150822689940A,Basic Life / AD&D,Life & Disability,TRUE,Sun Life,6000
+7547820175611981624A,Long Term Disability,Life & Disability,TRUE,Sun Life,24000
+-6526511257825749666A,Short Term Disability,Life & Disability,TRUE,Sun Life,6000
+-3681664537866554564A,Voluntary Life,Life & Disability,TRUE,Sun Life,12000
+-7935329916201572198A,Accident,Worksite,TRUE,UnitedHealthcare,11000
+8059948917907089714A,Critical Illness,Worksite,TRUE,UnitedHealthcare,11000
+-544528513257641430A,Vision,Dental/Vision,TRUE,EyeMed,1824
+-4777129104473690993A,Voluntary Life,Life & Disability,TRUE,MetLife,2333
+3740808754543084879A,Long Term Disability,Life & Disability,TRUE,MetLife,19200
+-4969894392404895597A,Voluntary AD&D,Life & Disability,TRUE,MetLife,233
+1369087439299488069A,Basic Life / AD&D,Life & Disability,TRUE,MetLife,4680
+7495107299777443814A,Short Term Disability,Life & Disability,TRUE,MetLife,19920
+2582536361490810829A,Dental,Dental/Vision,TRUE,Guardian,73000
+-8834683242633512740A,Vision,Dental/Vision,TRUE,Aetna,13080
+2174093495246192207A,Voluntary Life,Life & Disability,TRUE,Lincoln,74750
+-5973819355068498259A,Basic Life / AD&D,Life & Disability,TRUE,Lincoln,63210
+-2474786193862640777A,Absence Management,Life & Disability,TRUE,Lincoln,32301
+8708588079848433088A,ASO STD,Life & Disability,TRUE,Lincoln,21981
+-1665468742441184617A,Voluntary AD&D,Life & Disability,TRUE,Lincoln,7544
+7409165689715993106A,Long Term Disability,Life & Disability,TRUE,Lincoln,252255
+5911990368411743847A,Hospital Indemnity,Worksite,FALSE,,100
+-8392807784310780223A,Critical Illness,Worksite,FALSE,,100
+-9053298398664215060A,Accident,Worksite,FALSE,,100
+-208755495871126988A,Accident,Worksite,FALSE,,108
+-1236175202489751750A,Critical Illness,Worksite,FALSE,,108
+5801190796311250435A,Hospital Indemnity,Worksite,FALSE,,108
+3175723297128177020A,Absence Management,Life & Disability,FALSE,,25000
+7659859185533827299A,Basic Life / AD&D,Life & Disability,TRUE,Lincoln,42158
+-8532991950155105400A,Short Term Disability,Life & Disability,TRUE,Lincoln,43999
+-4319689976053658823A,ASO STD,Life & Disability,TRUE,Lincoln,7519
+176034761405204054A,Voluntary AD&D,Life & Disability,TRUE,Lincoln,6476
+-3038284408122249695A,Voluntary Life,Life & Disability,TRUE,Lincoln,94319
+5701345236291803177A,Long Term Disability,Life & Disability,TRUE,Lincoln,78224
+-4292151642457984269A,Dental,Dental/Vision,TRUE,Sun Life,4000
+905978892037112498A,ASO STD,Life & Disability,TRUE,Unum,100
+6898953391250337926A,Vision,Dental/Vision,TRUE,Aetna,11213
+3383838047978089906A,Long Term Disability,Life & Disability,FALSE,,25000
+-2883067292103937761A,Basic Life / AD&D,Life & Disability,FALSE,,20000
+2218067858687637389A,Short Term Disability,Life & Disability,FALSE,,30000
+57910052418464028A,Hospital Indemnity,Worksite,FALSE,,100
+-4842672521758352595A,Critical Illness,Worksite,FALSE,,300
+6362695932714936727A,Accident,Worksite,FALSE,,300
+4459574153160611293A,Hospital Indemnity,Worksite,FALSE,,300
+-4263439715804544415A,Hospital Indemnity,Worksite,FALSE,,100
+2409202911758387202A,Critical Illness,Worksite,FALSE,,100
+7626415024323275765A,Accident,Worksite,FALSE,,100
+95987935869565320A,Critical Illness,Worksite,FALSE,,100
+2249000616017895613A,Accident,Worksite,FALSE,,100
+595090089295769992A,Short Term Disability,Life & Disability,TRUE,Unum,523368
+-4038073140659157091A,Voluntary Life,Life & Disability,TRUE,Unum,356000
+-7457856062995779079A,Basic Life / AD&D,Life & Disability,TRUE,Unum,311844
+6490479709307504005A,Long Term Disability,Life & Disability,TRUE,Unum,562485
+-1933696727941547672A,ASO STD,Life & Disability,TRUE,Unum,4920
+2315343221968260665A,Hospital Indemnity,Worksite,FALSE,,3000
+-7290198850938989639A,Critical Illness,Worksite,FALSE,,3000
+526554838398642753A,Accident,Worksite,FALSE,,3000
+-1547047713449983947A,Short Term Disability,Life & Disability,TRUE,Standard,241440
+-2689851656077290619A,Basic Dependent Life,Life & Disability,TRUE,Standard,23160
+7387732233795822156A,Long Term Disability,Life & Disability,TRUE,Standard,457920
+4869537683092290142A,Basic Life / AD&D,Life & Disability,TRUE,Standard,113760
+3300167875715101638A,Voluntary Life,Life & Disability,TRUE,Standard,162960
+5193471736155328528A,Voluntary Life,Life & Disability,TRUE,Guardian,8910
+-2710562393001841083A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,4104
+1103126001080296768A,Long Term Disability,Life & Disability,TRUE,Guardian,17928
+-6653121941626341035A,Voluntary AD&D,Life & Disability,TRUE,Guardian,891
+-6919101216623956856A,Short Term Disability,Life & Disability,TRUE,Standard,40000
+7268823391938112248A,Critical Illness,Worksite,TRUE,Standard,11916
+-7379908191753698788A,Accident,Worksite,TRUE,Standard,6708
+8256616858225754098A,Long Term Disability,Life & Disability,TRUE,Standard,17928
+8798643901541745661A,Basic Life / AD&D,Life & Disability,TRUE,Standard,15420
+-3662650151851732262A,Voluntary AD&D,Life & Disability,TRUE,Standard,1476
+274364051111869134A,Voluntary Life,Life & Disability,TRUE,Standard,23400
+5316224765746749147A,Dental,Dental/Vision,TRUE,Lincoln,64000
+-7015137751916199479A,Vision,Dental/Vision,TRUE,Anthem,38283
+6791072884919710479A,Long Term Disability,Life & Disability,TRUE,Dearborn Group,11551
+1633297038597200552A,Basic Life / AD&D,Life & Disability,TRUE,Dearborn Group,15013
+3434615613917715788A,Voluntary Life,Life & Disability,TRUE,Dearborn Group,8386
+6129018007516467610A,Dental,Dental/Vision,TRUE,Blue Cross Blue Shield,22667
+3846822538833078512A,Vision,Dental/Vision,TRUE,Dearborn Group,3300
+5061558432251400131A,Voluntary AD&D,Life & Disability,TRUE,Dearborn Group,552
+5445201542410954484A,Short Term Disability,Life & Disability,TRUE,Dearborn Group,13255
+-4921982758305913732A,Vision,Dental/Vision,FALSE,,2880
+8939934373024876495A,Dental,Dental/Vision,TRUE,UnitedHealthcare,13020
+5125521617658803329A,Basic Life / AD&D,Life & Disability,TRUE,Voya,21480
+7283296376094411479A,Voluntary Life / AD&D,Life & Disability,TRUE,Voya,40482
+7774353174078138118A,Short Term Disability,Life & Disability,TRUE,Voya,67824
+6213270939656739424A,Vision,Dental/Vision,TRUE,UnitedHealthcare,17000
+-6141511369525376884A,Dental,Dental/Vision,TRUE,UnitedHealthcare,140000
+2589651798105764832A,Long Term Disability,Life & Disability,TRUE,UnitedHealthcare,37000
+-3509779284583293652A,Voluntary Life / AD&D,Life & Disability,TRUE,UnitedHealthcare,16488
+7476760205029113103A,Short Term Disability,Life & Disability,TRUE,UnitedHealthcare,43080
+8322841023955743501A,Basic Life / AD&D,Life & Disability,TRUE,UnitedHealthcare,24000
+1812352123479870909A,Voluntary Life,Life & Disability,TRUE,Guardian,1500
+1478907095278574285A,Long Term Disability,Life & Disability,TRUE,Guardian,15000
+2498958065087258562A,Basic Life / AD&D,Life & Disability,TRUE,Guardian,24000
+8069360103967832869A,Short Term Disability,Life & Disability,TRUE,Guardian,15000
+-3850543700898553823A,Dental,Dental/Vision,TRUE,Guardian,99000
+-544527440257659885A,Vision,Dental/Vision,TRUE,Guardian,10000
+5719271492590191619A,Vision,Dental/Vision,TRUE,Guardian,11213
+2567414753494762699A,Dental,Dental/Vision,TRUE,Guardian,40000
+-2253217244562834551A,Dental,Dental/Vision,TRUE,Medical Mutual,337088
+4327225152999553000A,Critical Illness,Worksite,FALSE,,100
+-7923625484609647009A,Accident,Worksite,FALSE,,100
+-7666897983930800669A,Hospital Indemnity,Worksite,FALSE,,100
+1763511939687758436A,Long Term Disability,Life & Disability,TRUE,Standard,16356
+-3872684007531795286A,Short Term Disability,Life & Disability,TRUE,Standard,142222
+-8414130790745658825A,Voluntary Life / AD&D,Life & Disability,TRUE,Standard,8697
+6336849955078725324A,Basic Life / AD&D,Life & Disability,TRUE,Standard,53019
+-7188333576235629825A,Critical Illness,Worksite,FALSE,,100
+-8092610678012384075A,Accident,Worksite,FALSE,,100
+-4125738815831965275A,Hospital Indemnity,Worksite,FALSE,,100
+-2315889846113489108A,Critical Illness,Worksite,FALSE,,100
+1490460696132912625A,Accident,Worksite,FALSE,,100
+-4647657574299814479A,Vision,Dental/Vision,TRUE,UnitedHealthcare,37800
+-6656307268775219892A,Dental,Dental/Vision,TRUE,MetLife,12600
+6027520790436566251A,Basic Life / AD&D,Life & Disability,TRUE,Blue Cross Blue Shield,10836
+5747516258663393286A,Voluntary Life,Life & Disability,TRUE,Blue Cross Blue Shield,24936
+-182733583891237279A,Dental,Dental/Vision,TRUE,Blue Cross Blue Shield,0
+-548699032169672802A,Long Term Disability,Life & Disability,TRUE,Blue Cross Blue Shield,29460
+6079730755970114299A,Voluntary AD&D,Life & Disability,TRUE,Blue Cross Blue Shield,1468
+-3151395580874470204A,Vision,Dental/Vision,TRUE,Blue Cross Blue Shield,0
+-4737789140037192245A,Short Term Disability,Life & Disability,TRUE,Blue Cross Blue Shield,27888
+8786285858605614464A,Basic Life / AD&D,Life & Disability,TRUE,Lincoln,3672
+-9110696096773999769A,Voluntary Life,Life & Disability,TRUE,Lincoln,4560
+5037259667111145003A,Vision,Dental/Vision,TRUE,Lincoln,7080
+-5997435272169189873A,Long Term Disability,Life & Disability,TRUE,Lincoln,12720
+-6563835969776988813A,Short Term Disability,Life & Disability,TRUE,Lincoln,12240
+2561085510154661322A,Dental,Dental/Vision,TRUE,Lincoln,30600
+-6293759595189976080A,Accident,Worksite,FALSE,,100
+8998154417632697323A,Long Term Disability,Life & Disability,TRUE,Unum,8784
+1493306934875120651A,Basic Life / AD&D,Life & Disability,TRUE,Unum,420
+-6877465391116202583A,Dental,Dental/Vision,TRUE,Unum,28000
+9002943935296914253A,Vision,Dental/Vision,TRUE,VSP,6000
+-2889416309208721834A,Basic Life / AD&D,Life & Disability,TRUE,Reliance Standard,8808
+-8793710815835219858A,Short Term Disability,Life & Disability,TRUE,Reliance Standard,15960
+-7512347458676893324A,Long Term Disability,Life & Disability,TRUE,Reliance Standard,5760
+6355304670021223220A,Voluntary Life,Life & Disability,TRUE,Reliance Standard,9540
+3074100913591870275A,Accident,Worksite,TRUE,Reliance Standard,6360
+4603909173502752752A,Dental,Dental/Vision,TRUE,Delta Dental,73000
+-637908280570623363A,Vision,Dental/Vision,TRUE,Varipro,517
+8442884071809358096A,Accident,Worksite,FALSE,,1000
+-3924809623952894692A,Hospital Indemnity,Worksite,FALSE,,1000
+-6074419847988772497A,Critical Illness,Worksite,FALSE,,1000
